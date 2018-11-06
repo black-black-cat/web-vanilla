@@ -5,7 +5,9 @@
       "targets": {
         "browsers": ["ie > 9"]
       }
-    }],
-    ["@babel/plugin-transform-runtime"]
+    }]
+  ],
+  "plugins": [
+    "@babel/plugin-transform-runtime"
   ]
 }
